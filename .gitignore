@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+!lesson_04/fibonacci_func.so
 
 # Distribution / packaging
 .Python
